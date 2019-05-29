@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/mubaidr/file-upload-puppeteer#readme",
   "dependencies": {
-    "puppeteer": "^0.13.0",
+    "puppeteer": "^1.13.0",
     "express": "^4.16.2",
     "portfinder": "^1.0.13"
   },
